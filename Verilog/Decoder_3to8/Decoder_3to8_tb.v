@@ -9,11 +9,11 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Decoder3to8_tb( );
+module Decoder_3to8_tb( );
     reg [2:0]sel;
     wire [7:0]out;
     
-    Decoder3to8 UUT (.out(out), .sel(sel));
+    Decoder_3to8 UUT (.out(out), .sel(sel));
     
     initial
     begin
