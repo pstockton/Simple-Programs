@@ -1,0 +1,23 @@
+======================================
+Basic constraints for Xilinx SP601 Spartan-6 FPGA
+======================================
+
+A. create the constraints file
+LEDs: E13 C14 C4 A4
+DIP Sw: D14 E12 F12 V13
+Push Buttons: B0 = P4, B1 = F6, B2 = E4, B3 = F5
+Clock: NET "<variable>" CLOCK_DEDICATED_ROUTE = TRUE;
+
+
+ufc syntax:
+NET "<variable>" LOC = "<location>";
+
+B. run Generate Programming File
+C. Connect board with usb to JTAG.
+	wait for the computer to install the driver
+D. Configure Target Device |
+	Boundary Scan
+	right click | Add Xilinx device
+	select .bit file
+E. Right click on device | Program
+
