@@ -13,7 +13,7 @@ module CoinMachine_tb( );
     wire dispenseNoBalance, dispenseBalance;
     wire [7:0] count;
 
-    CoinMachineV2 UUT (.nickel(nickel), .dime(dime), .quarter(quarter), .dispenseNoBalance(dispenseNoBalance), .dispenseBalance(dispenseBalance), .count(count));
+    CoinMachine UUT (.nickel(nickel), .dime(dime), .quarter(quarter), .dispenseNoBalance(dispenseNoBalance), .dispenseBalance(dispenseBalance), .count(count));
     
     initial
     begin
