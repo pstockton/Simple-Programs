@@ -8,7 +8,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 // Instantiate the JK Flip Flop Test Bench
-module JKFF_tb(J, K, CLK, ClrN, SetN, Q, QN);
+module JK_FlipFlop_tb(J, K, CLK, ClrN, SetN, Q, QN);
     reg J, K, CLK;
     wire Q, QN;
     
