@@ -14,7 +14,7 @@ module ArrayMultiplier_16x16_tb();
     reg [15:0] A, B;
     wire [31:0] P;
     
-    ArrayMultiplier uut(
+    ArrayMultiplier_16x16 uut(
         .A(A),
         .B(B),
         .P(P));
