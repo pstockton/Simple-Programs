@@ -8,12 +8,12 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-module MUX8to1_tb( );
+module MUX_8to1_tb( );
     reg [7:0]in;
     reg [2:0]sel;
     wire out;
     
-    MUX8to1 UUT (.out(out), .in(in), .sel(sel));
+    MUX_8to1 UUT (.out(out), .in(in), .sel(sel));
     
     initial
     begin
