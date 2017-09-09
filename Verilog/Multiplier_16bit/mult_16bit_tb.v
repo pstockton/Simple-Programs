@@ -14,7 +14,7 @@ module mult_16bit_tb( );
     reg reset, clk;
     wire [31:0] product;
     
-    mult UUT (.product(product), .a(a), .b(b), .reset(reset), .clk(clk));
+    mult_16bit UUT (.product(product), .a(a), .b(b), .reset(reset), .clk(clk));
     
     always
     begin
