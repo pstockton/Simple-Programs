@@ -5,4 +5,4 @@ Hopefully these examples could prove useful to any learner that's getting famili
 
 Current languages:
 * Verilog
-* C++
+* Perl
