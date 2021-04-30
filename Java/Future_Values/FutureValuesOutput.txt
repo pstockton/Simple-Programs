@@ -1,0 +1,22 @@
+Welcome to DrJava.  Working directory is C:\Users\Patrick\Dropbox\1- UTSA\Fall 2015\Intro to Comp Programming I\Labs\Lab III
+> run FutureValues
+Lab 3 written by Patrick Stockton
+
+Input money value: 
+ [DrJava Input Box]
+Input interest rate: 
+ [DrJava Input Box]
+Input number of years: 
+ [DrJava Input Box]
+The value(1000.0) with an interest rate of (5.0) over (2.0) years is = $1102.50
+
+Below is the test for the Annuity 
+
+Input yearly payment value: 
+ [DrJava Input Box]
+Input interest rate: 
+ [DrJava Input Box]
+Input number of years: 
+ [DrJava Input Box]
+The yearly payment of (100.0) with an interest rate of (5.0) over (3.0) years is = $315.25
+> 

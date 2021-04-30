@@ -1,0 +1,16 @@
+Welcome to DrJava.  Working directory is C:\Users\Patrick\Dropbox\1- UTSA\Fall 2015\Intro to Comp Programming I\Labs\Lab VI
+> run Playoffs
+
+Lab 6 written by Patrick Stockton
+
+What are the chances your team (Team 1) will win the game?
+Pick the percent chance that your team (Team 1) has to win the game!
+Choose a number between 0 and 100
+ [DrJava Input Box]
+Your inputted chance of winning is: 50%
+0 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 0 
+********** FINAL RESULTS **********
+Team 1 wins: 8
+Team 2 wins:  10
+THE WINNER IS <<<TEAM 2>>>
+> 

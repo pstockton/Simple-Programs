@@ -1,0 +1,17 @@
+Welcome to DrJava.  Working directory is C:\Users\Patrick\Dropbox\1- UTSA\Fall 2015\Intro to Comp Programming I\Labs\Lab VII
+> run RandomWalk
+
+
+
+Lab 7 written by Patrick Stockton
+Choose the size of the circle (between 50 to 400)
+ [DrJava Input Box]
+Circle radius chosen is: 200
+Choose the circle color (Blue or Red): 
+ [DrJava Input Box]
+Circle color chosen: Blue
+Choose the Walking color (Blue or Red): 
+ [DrJava Input Box]
+Walk color chosen: Red
+Total steps taken: 6453
+> 

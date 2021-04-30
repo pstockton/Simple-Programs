@@ -1,0 +1,38 @@
+Welcome to DrJava.  Working directory is C:\Users\Patrick\Dropbox\1- UTSA\Fall 2015\Intro to Comp Programming I\Labs\Lab V
+> run Circles
+
+
+
+Lab 5 written by Patrick Stockton 
+
+---------- BLUE Circle ----------
+Blue Circle x: 
+ [DrJava Input Box]
+Blue Circle y: 
+ [DrJava Input Box]
+Value of the Blue Circle Radius: 
+ [DrJava Input Box]
+BLUE Circle: (20, 20)  with Radius = 100
+---------- GREEN Circle ----------
+Green Circle x: 
+ [DrJava Input Box]
+Green Circle y: 
+ [DrJava Input Box]
+Value of the Green Circle Radius: 
+ [DrJava Input Box]
+GREEN Circle: (20, 30)  with Radius = 100
+---------- RED Circle ----------
+Red Circle x: 
+ [DrJava Input Box]
+Red Circle y: 
+ [DrJava Input Box]
+Value of the Red Circle Radius: 
+ [DrJava Input Box]
+RED Circle: (50, 50)  with Radius = 150
+The BLUE circle is the SAME size as the GREEN circle.
+The BLUE circle is SMALLER than the RED circle.
+The GREEN circle is SMALLER than the RED circle.
+The BLUE circle intersects the GREEN circle
+The BLUE circle does not intersect the RED circle
+The GREEN circle does not intersect the RED circle
+> 

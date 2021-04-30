@@ -1,0 +1,13 @@
+Welcome to DrJava.  Working directory is C:\Users\Patrick\Documents\DrJava
+> run Initials
+
+Lab 0 written by Patrick Stockton
+
+XXXXXXX  X       X  XXXXXXX
+X     X  XX     XX  X
+X     X  X X   X X  X
+XXXXXXX  X  X X  X   XXXXX 
+X        X   X   X        X
+X        X   X   X        X
+X        X   X   X  XXXXXXX
+> 

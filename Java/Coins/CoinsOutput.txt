@@ -1,0 +1,27 @@
+Welcome to DrJava.  Working directory is C:\Users\Patrick\Documents\DrJava\CS1063\Weeks III and IV\Coins (HW2)
+> run Coins
+Lab 2 written by Patrick Stockton
+
+Preparing to calculate total change amount inputted... 
+
+Please input total amount of QUARTERS
+ [DrJava Input Box]
+Please input total amount of DIMES
+ [DrJava Input Box]
+Please input total amount of NICKELS
+ [DrJava Input Box]
+Please input total amount of PENNIES
+ [DrJava Input Box]
+The total amount of coins inputted is 14
+The total value of the coins is $1.42
+  
+
+When you get a chance, please input the total value you wish to convert to change.
+ [DrJava Input Box]
+Below is the total amount of each coin needed: 
+Quarters: 1.0
+Dimes: 1.0
+Nickels: 1.0
+Pennies: 4.0
+The total amount of coins used are; 7.0
+> 
