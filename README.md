@@ -7,3 +7,4 @@ Current languages:
 * Verilog
 * Perl
 * C
+* MIPS
