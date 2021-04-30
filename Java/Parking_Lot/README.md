@@ -1,9 +1,22 @@
-# Simple-Programs
+# Parking Lot Simulation
 
-Repository for various language exercises during my time at University. 
-Hopefully these examples could prove useful to any learner that's getting familiar with a language!
 
-Current languages:
-* Verilog
-* Perl
-* C
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Space%20Example.gif)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Space%20Specifications.png)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Lot%20Layout.PNG)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Lot%20Sim%200.PNG)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Lot%20Sim%201.PNG)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Lot%20Sim%202.PNG)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Lot%20Sim%203.PNG)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Lot%20Sim%204.PNG)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Lot%20Sim%205.PNG)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/Java/Parking_Lot/Parking%20Lot%20Sim%206.PNG)
