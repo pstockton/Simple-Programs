@@ -1,9 +1,7 @@
-# Simple-Programs
+# MIPS Encrypt_Decrypt_Digits
 
-Repository for various language exercises during my time at University. 
-Hopefully these examples could prove useful to any learner that's getting familiar with a language!
+MIPS project for encrypting and decrypting digits to the desired values.
 
-Current languages:
-* Verilog
-* Perl
-* C
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/MIPS/Encrypt_Decrypt_Digits/Run%20Screenshot.PNG)
+
+![alt text](https://github.com/pstockton/Simple-Programs/blob/master/MIPS/Encrypt_Decrypt_Digits/Run%20Screenshot2.PNG)
